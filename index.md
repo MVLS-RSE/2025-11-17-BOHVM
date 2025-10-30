@@ -432,7 +432,7 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 
 <h2 id="setup">Setup</h2>
-
+<h3>November 17th - Data Analysis and Visualization in R</h3>
 <p>
   To participate in a
   {% if site.carpentry == "swc" %}
@@ -475,6 +475,7 @@ during the workshop.
 {% include swc/setup.html %}
 {% elsif site.carpentry == "dc" %}
 {% include dc/setup.html %}
+<h3>November 19th - Version Control with Git</h3>
 {% include swc/setup.html %}
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
