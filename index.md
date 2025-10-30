@@ -92,6 +92,9 @@ the pitch.
 {% endcomment %}
 
 <p>
+This is the website for the Research Software Training for SBOHVM, covering Data Analysis and Visualization in R on the 17th of November and Version Control with Git on the 19th of November.
+<i>Please note: registation is required for each day and is now closed.</i>
+<br>
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
 href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
 <a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
